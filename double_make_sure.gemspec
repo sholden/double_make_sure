@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = DoubleMakeSure::VERSION
   s.authors     = ["Scott Holden"]
   s.email       = ["scott@sshconnection.com"]
-  s.homepage    = ""
+  s.homepage    = "http://github.com/sholden/double_make_sure"
   s.summary     = %q{Add redundancy to your project to ensure that it is twice as correct as ever before.}
   s.description = %q{DoubleMakeSure adds redundant testing and execution methods that allow you to use redundant tests and execution}
 
