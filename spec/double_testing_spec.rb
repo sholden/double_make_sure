@@ -2,9 +2,7 @@ require 'spec_helper'
 
 describe ActiveSupport::TestCase do
   class TestCase < ActiveSupport::TestCase
-    double_make_sure_that "truth" do
-      assert true
-    end
+    double_make_sure_that "truth"
   end
 
   it "allows twice as advanced testing" do
