@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Scott Holden"]
   s.email       = ["scott@sshconnection.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Add redundancy to your project to ensure that it is twice as correct as ever before.}
+  s.description = %q{DoubleMakeSure adds redundant testing and execution methods that allow you to use redundant tests and execution}
 
   s.rubyforge_project = "double_make_sure"
 
